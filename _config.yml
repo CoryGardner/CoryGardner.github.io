@@ -1,0 +1,17 @@
+---
+title: Cory Gardner
+description: PhD Student in Computer Science at Saint Louis University
+theme: jekyll-theme-minimal
+
+# Your social media URLs
+github_username: CoryGardner
+linkedin_username: CoryGardner
+
+# Navigation
+header_pages:
+  - index.md
+  - research.md
+  - publications.md
+  - teaching.md
+  - cv.md
+---

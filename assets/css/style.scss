@@ -1,0 +1,13 @@
+i---
+   ---
+
+   @import "{{ site.theme }}";
+
+   // Add your custom CSS here
+   body {
+     font-family: Arial, sans-serif;
+   }
+
+   h1, h2, h3 {
+     color: #2c3e50;
+   }
