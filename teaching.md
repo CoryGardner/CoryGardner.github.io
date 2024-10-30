@@ -13,3 +13,7 @@ title: Teaching
 
 ## Supplemental Instructor
 - Introduction to Bioinformatics II
+
+- [Curriculum Vitae](cv.html)
+- [Research](research.html)
+- [Publications](publications.html)
