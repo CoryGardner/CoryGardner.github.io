@@ -12,3 +12,8 @@ title: Home
 
    - Email: cory.gardner@slu.edu
    - Department of Computer Science, Saint Louis University, St. Louis, MO 63103
+
+- [Curriculum Vitae](cv.html)
+- [Research](research.html)
+- [Publications](publications.html)
+- [Teaching](teaching.html)
