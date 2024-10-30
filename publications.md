@@ -10,3 +10,7 @@ title: Publications
 2. Yang Y, Gardner C, Gupta P, Peng Y, Piasecki C, Millwood RJ, Ahn TH, Stewart CN Jr., "Novel Candidate Genes Differentially Expressed in Glyphosate-Treated Horseweed," Genes (Basel), 2021.
 
 3. Metagenomic Data Analysis with Probability-Based Reduced Dataset Representation, CAMDA, 2020
+
+- [Curriculum Vitae](cv.html)
+- [Research](research.html)
+- [Teaching](teaching.html)
