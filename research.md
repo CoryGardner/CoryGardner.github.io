@@ -13,3 +13,7 @@ My research interests include:
 - Long read de-novo assembly and annotation
 - ChIP-seq analysis
 - Privacy and Inference Attacks on Multimodal Machine Learning Models
+
+- [Curriculum Vitae](cv.html)
+- [Publications](publications.html)
+- [Teaching](teaching.html)
