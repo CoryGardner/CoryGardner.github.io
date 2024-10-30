@@ -29,3 +29,8 @@ title: CV
 - National Science Foundation BITWISE Scholarship, 2020-2021
 - International Society of Computational Biology Fellowship, 2020
 - Best Presentation Award, Critical Assessment of Massive Data Analysis International Conference, 2020
+
+
+- [Research](research.html)
+- [Publications](publications.html)
+- [Teaching](teaching.html)
