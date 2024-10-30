@@ -2,7 +2,8 @@
 title: Cory Gardner
 description: PhD Student in Computer Science at Saint Louis University
 theme: jekyll-theme-minimal
-
+sass:
+  style: compressed
 # Your social media URLs
 github_username: CoryGardner
 linkedin_username: CoryGardner
