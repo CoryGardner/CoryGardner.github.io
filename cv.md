@@ -5,7 +5,7 @@ title: CV
 
 # Curriculum Vitae
 
-[Download Full CV (PDF)](assets/files/Gardner_CV_17March2025.pdf)
+[Download Full CV (PDF)](assets/files/Gardner_CV_March2025.pdf)
 
 ## Education
 - PhD in Computer Science, Saint Louis University, 2022 - Present
