@@ -1,8 +1,7 @@
 # Site Author
 author:
   name: "Cory Gardner"
-  avatar: "/assets/images/profile.jpg"
-  bio: "PhD Student in Computer Science"  # Remove your name from here
+  bio: "PhD Student in Computer Science"
   location: "Saint Louis University, St. Louis, MO"
   links:
     - label: "Email"
