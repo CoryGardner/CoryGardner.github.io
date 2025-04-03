@@ -1,19 +1,16 @@
 ---
-layout: default
-title: Home
+permalink: /
+title: "About Me"
+excerpt: "About Me"
+layout: single
+classes: wide
+author_profile: true
 ---
 
-# About Me
+I am a PhD student in the Department of Computer Science at Saint Louis University, working under the supervision of Dr. Tae-Hyuk Ahn. My research focuses on the intersection of computational biology, high-performance computing, and machine learning applications in genomics.
 
-I am a PhD student in the Department of Computer Science at Saint Louis University, working under the supervision of Dr. Tae-Hyuk Ahn. My research focuses on computational biology, bioinformatics, and machine learning applications in genomics.
+## Research Interests
 
-
-## Contact
-
-- Email: cory.gardner@slu.edu
-- Department of Computer Science, Saint Louis University, St. Louis, MO 63103
-
-- [Curriculum Vitae](cv.html)
-- [Research](research.html)
-- [Publications](publications.html)
-- [Teaching](teaching.html)
+* **Computational Biology & Genomics**: Advanced sequence representation methods, multimodal deep learning for integrated genomic analysis
+* **High-Performance Computing**: GPU-accelerated image analysis, parallel algorithm optimization for large-scale genomic datasets
+* **Machine Learning Privacy & Security**: Membership inference attack detection, federated learning for healthcare data privacy
