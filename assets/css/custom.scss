@@ -1,0 +1,86 @@
+/* Research card styling */
+.research-card {
+  background-color: #f9f9f9;
+  border-left: 4px solid #5e81ac;
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+  border-radius: 0.25rem;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+  transition: all 0.3s ease;
+  
+  &:hover {
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    transform: translateY(-2px);
+  }
+  
+  h3 {
+    margin-top: 0;
+    color: #2e3440;
+  }
+}
+
+/* Publication styling */
+.publication {
+  margin-bottom: 2.5rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid #e9ecef;
+  
+  .pub-title {
+    font-weight: 600;
+    font-size: 1.1em;
+    margin-bottom: 0.3em;
+    color: #2e3440;
+  }
+  
+  .pub-authors {
+    font-size: 0.95em;
+    margin-bottom: 0.3em;
+  }
+  
+  .pub-venue {
+    font-style: italic;
+    font-size: 0.95em;
+    color: #4c566a;
+    margin-bottom: 0.3em;
+  }
+  
+  .pub-links {
+    font-size: 0.9em;
+    
+    a {
+      text-decoration: none;
+      color: #5e81ac;
+      
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+}
+
+/* CV Button styling */
+.btn--primary {
+  background-color: #5e81ac;
+  color: #fff;
+  
+  &:hover {
+    background-color: darken(#5e81ac, 10%);
+  }
+}
+
+/* Enhanced typography */
+.page__content {
+  h2 {
+    padding-bottom: 0.5em;
+    border-bottom: 1px solid #e9ecef;
+    margin-top: 2.5em;
+  }
+  
+  h3 {
+    color: #3b4252;
+  }
+  
+  p {
+    margin-bottom: 1.2em;
+  }
+}
