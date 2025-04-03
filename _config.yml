@@ -1,20 +1,8 @@
-# Site settings
-title: Cory Gardner
-subtitle: PhD Researcher
-email: cory.gardner@slu.edu
-description: Computational Biology & GPU Computing Researcher at Saint Louis University
-url: "https://corygardner.github.io"
-repository: "CoryGardner/corygardner.github.io"
-
-# Theme settings
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin: "air"
-
 # Site Author
 author:
   name: "Cory Gardner"
   avatar: "/assets/images/profile.jpg"
-  bio: "PhD Student in Computer Science specializing in Computational Biology & High-Performance Computing"
+  bio: "PhD Student in Computer Science"  # Remove your name from here
   location: "Saint Louis University, St. Louis, MO"
   links:
     - label: "Email"
@@ -23,6 +11,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/CoryGardner"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/CoryGardner"
 #    - label: "LinkedIn"
 #      icon: "fab fa-fw fa-linkedin"
 #      url: "https://linkedin.com/in/CoryGardner"
