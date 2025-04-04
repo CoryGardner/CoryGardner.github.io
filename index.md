@@ -7,7 +7,7 @@ classes: wide
 author_profile: true
 ---
 
-I am a PhD student in the Department of Computer Science at Saint Louis University, working under the supervision of Dr. Tae-Hyuk Ahn. My research focuses on the intersection of computational biology, high-performance computing, and machine learning applications in genomics.
+I am a PhD student in the Department of Computer Science at Saint Louis University, working under the supervision of [Dr. Tae-Hyuk Ahn](https://cs.slu.edu/~ahn/) in the [Ahn Lab](https://ahnlab.github.io/). My research focuses on the intersection of computational biology, high-performance computing, and machine learning applications in genomics.
 
 ## Research Interests
 
