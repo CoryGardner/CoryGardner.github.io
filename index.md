@@ -16,5 +16,5 @@ I am a PhD student in the Department of Computer Science at Saint Louis Universi
 * **Machine Learning Privacy & Security**: Membership inference attack detection, federated learning for healthcare data privacy
 
 ## Recent News
-
-* **March 2025**: Our paper on metagenomics analysis of blood and tissues was accepted for publication by Briefings in Bioinformatics
+* **September 2024**: Our paper "Chromosome-level subgenome-aware de novo assembly of Saccharomyces bayanus provides insight into genome divergence after hybridization" was published by [Genome Biology](https://genome.cshlp.org/content/early/2024/09/17/gr.279364.124.abstract%22).
+* **March 2025**: Our paper on the metagenomics analysis of blood and tissues was accepted for publication by Briefings in Bioinformatics
