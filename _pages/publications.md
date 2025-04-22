@@ -10,7 +10,8 @@ author_profile: true
 <div class="publication">
   <p class="pub-title">Bioinformatics approaches of blood and tissue microbiome analyses: challenges and perspectives</p>
   <p class="pub-authors">Sirasani JP, <strong>Gardner C</strong>, Jung G, Lee H, Ahn TH.</p>
-  <p class="pub-venue">Briefings in Bioinformatics (under review).</p>
+  <p class="pub-venue">Briefings in Bioinformatics.</p>
+  <p class="pub-links"><a href="https://doi.org/10.1093/bib/bbaf176">DOI: 10.1093/bib/bbaf176</a></p>
 </div>
 
 <div class="publication">
