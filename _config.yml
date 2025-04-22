@@ -32,11 +32,10 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/CoryGardner"
-footer:
-  links:
     - label: "Ahn Lab"
       icon: "fas fa-flask"
       url: "https://cs.slu.edu/~ahn"
+
 #    - label: "LinkedIn"
 #      icon: "fab fa-fw fa-linkedin"
 #      url: "https://linkedin.com/in/CoryGardner"
