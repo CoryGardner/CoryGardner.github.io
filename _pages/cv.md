@@ -40,7 +40,7 @@ author_profile: true
 
 ## Awards & Honors
 
-* **Frontera Fellowship**, Texas Advanced Computing Center (TACC), The University of Texas at Austin, 2025-2026
+* **Frontera Fellowship**, Texas Advanced Computing Center (TACC), UT Austin, 2025-2026
 * **BITWISE Scholarship**, National Science Foundation, 2019-2020
 * **Conference Fellowship**, International Society of Computational Biology, 2020
 * **Best Presentation Award**, ISBM/CAMDA, 2020
