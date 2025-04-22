@@ -7,6 +7,11 @@ author_profile: true
 ---
 
 ## Journal Articles
+<div class="publication">
+  <p class="pub-title">Bioinformatics approaches of blood and tissue microbiome analyses: challenges and perspectives</p>
+  <p class="pub-authors">Sirasani JP, <strong>Gardner C</strong>, Jung G, Lee H, Ahn TH.</p>
+  <p class="pub-venue">Briefings in Bioinformatics (under review).</p>
+</div>
 
 <div class="publication">
   <p class="pub-title">Chromosome-level subgenome-aware de novo assembly provides insight into Saccharomyces bayanus genome divergence after hybridization</p>
@@ -31,10 +36,6 @@ author_profile: true
   <p class="pub-links"><em>Best Presentation Award</em></p>
 </div>
 
-## Under Review
 
-<div class="publication">
-  <p class="pub-title">Bioinformatics approaches of blood and tissue microbiome analyses: challenges and perspectives</p>
-  <p class="pub-authors">Sirasani JP, <strong>Gardner C</strong>, Jung G, Lee H, Ahn TH.</p>
-  <p class="pub-venue">Briefings in Bioinformatics (under review).</p>
-</div>
+
+
