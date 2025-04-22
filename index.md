@@ -19,4 +19,4 @@ I am a PhD candidate in the Department of Computer Science at Saint Louis Univer
 * **April 2025** – I was awarded the [Frontera Fellowship](https://www.tacc.utexas.edu/research/frontera/fellowships/) from the Texas Advanced Computing Center, supporting my research in HPC and computational biology.
 * **April 2025** – I attained PhD candidate status after passing my qualifying exams.
 * **March 2025** – Our paper on metagenomic analysis of blood and tissue samples was accepted for publication in *Briefings in Bioinformatics*.
-* **September 2024** – Our paper *"Chromosome-level subgenome-aware de novo assembly of Saccharomyces bayanus provides insight into genome divergence after hybridization"* was published in *Genome Research*.
+* **September 2024** – Our paper *Chromosome-level subgenome-aware de novo assembly of Saccharomyces bayanus provides insight into genome divergence after hybridization* was published in *Genome Research*.
