@@ -19,7 +19,7 @@ author_profile: true
 
 ## Teaching Philosophy
 
-I believe in creating an inclusive learning environment that encourages critical thinking and practical application of concepts. My approach combines:
+I believe in creating an inclusive learning environment that encourages critical thinking and practical application of concepts. This philosophy is grounded in:
 
 * **Interactive learning**: Engaging students through hands-on exercises and real-world examples
 * **Concept visualization**: Using diagrams and code examples to illustrate complex ideas
