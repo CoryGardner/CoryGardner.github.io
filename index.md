@@ -16,7 +16,6 @@ I am a PhD candidate in the Department of Computer Science at Saint Louis Univer
 * **Machine Learning Privacy & Security**: Membership inference attack detection, federated learning for healthcare data privacy
 
 ## Recent News
-* **April 2025** – I was awarded the [Frontera Fellowship](https://frontera-portal.tacc.utexas.edu/fellowship/) from the Texas Advanced Computing Center!
 * **April 2025** – I attained PhD candidate status after passing my qualifying exams.
 * **March 2025** – Our paper on metagenomic analysis of blood and tissue samples was accepted for publication in *Briefings in Bioinformatics*.
 * **September 2024** – Our paper *Chromosome-level subgenome-aware de novo assembly of Saccharomyces bayanus provides insight into genome divergence after hybridization* was published in *Genome Research*.
