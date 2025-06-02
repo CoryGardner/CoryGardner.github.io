@@ -6,7 +6,7 @@ classes: wide
 author_profile: true
 ---
 
-[Download Full CV (PDF)]({{ site.url }}/assets/files/Gardner_CV_25April2025.pdf){: .btn .btn--primary .btn--large}
+[Download Full CV (PDF)]({{ site.url }}/assets/files/Gardner_CV_1June2025.pdf){: .btn .btn--primary .btn--large}
 
 ## Education
 
