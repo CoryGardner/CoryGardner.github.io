@@ -1,0 +1,16 @@
+@import "{{ site.theme }}";
+
+// Custom CSS below
+body {
+    font-family: Arial, sans-serif;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 15px;
+}

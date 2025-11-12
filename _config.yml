@@ -1,0 +1,87 @@
+# Site settings
+title: Cory Gardner
+subtitle: PhD Candidate
+email: cory.gardner@slu.edu
+description: Computational Biology & GPU Computing Researcher at Saint Louis University
+url: "https://corygardner.github.io"
+repository: "CoryGardner/corygardner.github.io"
+
+# Theme settings
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "air"
+
+# Site Author
+author:
+  name: "Cory Gardner"
+  bio: "PhD Candidate in Computer Science"
+  location: "Saint Louis University"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:cory.gardner@slu.edu"
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/CoryGardner"
+#    - label: "LinkedIn"
+#      icon: "fab fa-fw fa-linkedin"
+#      url: "https://linkedin.com/in/CoryGardner"
+
+# Site Footer
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/CoryGardner"
+    - label: "Ahn Lab"
+      icon: "fas fa-flask"
+      url: "https://cs.slu.edu/~ahn"
+
+#    - label: "LinkedIn"
+#      icon: "fab fa-fw fa-linkedin"
+#      url: "https://linkedin.com/in/CoryGardner"
+
+# Reading Files
+include:
+  - _pages
+
+# Defaults
+defaults:
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      classes: wide
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: false
+      related: false
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-seo-tag
+  - jekyll-remote-theme
+# Archives
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+sass:
+  load_paths:
+    - _sass
