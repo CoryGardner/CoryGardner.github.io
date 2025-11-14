@@ -67,7 +67,7 @@ I am a PhD candidate in the Department of Computer Science at Saint Louis Univer
   </div>
   <div class="news-item">
     <span class="news-date">May 2025</span>
-    <span class="news-content">I presented "Memory-Efficient Anomaly Detection for Heterogeneous Computing Systems" at <a href="https://gcasr.org/2025/GCASR" target="_blank">GCASR 2025</a>a>, (Chicago)</a>.</span>
+    <span class="news-content">I presented "Memory-Efficient Anomaly Detection for Heterogeneous Computing Systems" at <a href="https://gcasr.org/2025/" target="_blank">GCASR 2025</a>.</span>
   </div>
   <div class="news-item">
     <span class="news-date">April 2025</span>
