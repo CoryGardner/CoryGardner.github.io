@@ -115,6 +115,19 @@ author_profile: true
   </div>
 </div>
 
+<div class="teaching-grid" style="grid-template-columns: 1fr;"> <div class="teaching-card">
+    <div class="teaching-icon" style="background: linear-gradient(135deg, #F97316, #EA580C);">
+      <i class="fas fa-chalkboard-teacher"></i>
+    </div>
+    <h3>Effective Teaching Practices for first Time Teachers</h3>
+    <p class="teaching-role">Presenter |  August 14th, 2025</p>
+    <p class="teaching-desc">Presented at an orientation for incoming Graduate Assistants, hosted by the Reinert Center for Transformative Learning.</p>
+    <div class="teaching-tags">
+      <span class="teaching-tag">Pedagogy</span>
+    </div>
+  </div>
+</div>
+
 ## Teaching Philosophy
 
 <div class="philosophy-section">
