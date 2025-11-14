@@ -93,7 +93,6 @@ author_profile: true
       </span>
     </div>
   </div>
-</div>
 
   <div class="publication-enhanced" data-type="conference">
     <div class="pub-badge conference-badge">Workshop Presentation</div>
