@@ -66,6 +66,10 @@ I am a PhD candidate in the Department of Computer Science at Saint Louis Univer
     <span class="news-content">I was nominated for membership in Alpha Sigma Nu, the Honor Society of Jesuit Colleges and Universities, by the SLU School of Science and Engineering.</span>
   </div>
   <div class="news-item">
+    <span class="news-date">May 2025</span>
+    <span class="news-content">I presented "Memory-Efficient Anomaly Detection for Heterogeneous Computing Systems" at GCASR 2025 (Chicago).</span>
+  </div>
+  <div class="news-item">
     <span class="news-date">April 2025</span>
     <span class="news-content">I attained PhD candidate status after passing my qualifying exams.</span>
   </div>
