@@ -85,11 +85,24 @@ author_profile: true
     <div class="award-ribbon"><i class="fas fa-award"></i> Best Presentation Award</div>
     <p class="pub-title">Metagenomic Data Analysis with Probability-Based Reduced Dataset Representation</p>
     <p class="pub-authors"><strong>Gardner C</strong>, Ahmad S, Ahn TH.</p>
-    <p class="pub-venue"><em>CAMDA Conference Proceedings</em>, 2020.</p>
+    <p class="pub-venue"><em>CAMDA Conference</em>, 2020.</p>
     <div class="pub-links-enhanced">
       <span class="pub-metrics">
         <i class="fas fa-calendar-alt"></i> 2020
         <i class="fas fa-trophy"></i> Best Presentation
+      </span>
+    </div>
+  </div>
+</div>
+
+  <div class="publication-enhanced" data-type="conference">
+    <div class="pub-badge conference-badge">Workshop Presentation</div>
+    <p class="pub-title">Memory-Efficient Anomaly Detection for Heterogeneous Computing Systems</p>
+    <p class="pub-authors"><strong>Gardner C</strong>, Min, B, Ahn TH.</p>
+    <p class="pub-venue"><em>12th Annual Greater Chicago Area Systems Research (GCASR) Workshop</em>, 2025.</p>
+    <div class="pub-links-enhanced">
+      <span class="pub-metrics">
+        <i class="fas fa-calendar-alt"></i> 2025
       </span>
     </div>
   </div>
